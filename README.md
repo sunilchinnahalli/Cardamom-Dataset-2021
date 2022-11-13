@@ -11,3 +11,5 @@ Please cite the following papers
 1. https://ieeexplore.ieee.org/document/9663367
 
 2. https://ieeexplore.ieee.org/document/9342729
+
+3. 10.1504/IJSAMI.2022.126802 (Binary class and multi-class plant disease detection using ensemble deep learning-based approach)
