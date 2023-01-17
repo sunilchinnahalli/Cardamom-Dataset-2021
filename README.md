@@ -7,7 +7,7 @@ Dataset is available upon request.
 
 https://drive.google.com/file/d/1tV3zH_n84OUb4IZ_vgjK-hSWwXw85VHs/view?usp=sharing (1724 images)
 
-EfficientNEtV2 Code: https://drive.google.com/file/d/1EMfrs_2z1yR_O03r9Wh6kkPxpyuyAW7H/view?usp=sharing
+EfficientNEtV2 Trined Model for cardamom dataset: https://drive.google.com/file/d/1EMfrs_2z1yR_O03r9Wh6kkPxpyuyAW7H/view?usp=sharing
 
 
 U2Net Code for Backround Removal: https://drive.google.com/file/d/19SkkME8T6LtHa-4xPqkqla-jtjuD63it/view?usp=sharing
