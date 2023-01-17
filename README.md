@@ -9,6 +9,8 @@ https://drive.google.com/file/d/1tV3zH_n84OUb4IZ_vgjK-hSWwXw85VHs/view?usp=shari
 
 EfficientNEtV2 Trined Model for cardamom dataset: https://drive.google.com/file/d/1EMfrs_2z1yR_O03r9Wh6kkPxpyuyAW7H/view?usp=sharing
 
+EfficientNetV2 keras model:  https://drive.google.com/file/d/1PDASnjxbi1zYJeKvpA_Ns4TECBOGGGko/view?usp=sharing
+
 
 U2Net Code for Backround Removal: https://drive.google.com/file/d/19SkkME8T6LtHa-4xPqkqla-jtjuD63it/view?usp=sharing
 
