@@ -15,13 +15,19 @@ EfficientNetV2 keras model:  https://drive.google.com/file/d/1PDASnjxbi1zYJeKvpA
 U2Net Code for Backround Removal: https://drive.google.com/file/d/19SkkME8T6LtHa-4xPqkqla-jtjuD63it/view?usp=sharing
 
 Please cite the following papers
-1. https://ieeexplore.ieee.org/document/9663367
+1. https://doi.org/10.1007/s10462-023-10517-0
+  
+2. https://ieeexplore.ieee.org/document/9663367
 
-2. https://doi.org/10.1016/j.eswa.2023.120381
+3. https://doi.org/10.1016/j.eswa.2023.120381
 
-3. https://ieeexplore.ieee.org/document/9342729
+4. https://ieeexplore.ieee.org/document/9342729
 
-4. https://doi.org/10.1504/IJSAMI.2022.126802 (Binary class and multi-class plant disease detection using ensemble deep learning-based approach)
+5. https://doi.org/10.1504/IJSAMI.2022.126802 (Binary class and multi-class plant disease detection using ensemble deep learning-based approach)
+
+6. https://doi.org/10.1007/978-3-031-27409-1_67
+
+7. https://doi.org/10.1007/978-981-99-1203-2_35
 
 
 Research Gate Profile: https://www.researchgate.net/profile/Sunil_C_K2
